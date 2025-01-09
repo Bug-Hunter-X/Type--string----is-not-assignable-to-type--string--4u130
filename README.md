@@ -1,0 +1,1 @@
+This repository contains a simple TypeScript program that demonstrates a common type error: passing an array of strings to a function that expects a single string. The solution shows how to correct the error by either modifying the function to accept an array of strings, or modifying the call to the function to pass a single string.
